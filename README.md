@@ -16,15 +16,11 @@
 
 ###
 
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNyc2FrM2h5OGs4YWs0aTVwZXF5YmxqemZudnk4cHU5Znhmb3cwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNyc2FrM2h5OGs4YWs0aTVwZXF5YmxqemZudnk4cHU5Znhmb3cwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif"  />
 
 ###
 
 <p align="left">🧪 Make sure chips work before they’re made.<br>🧰 Use fancy tools that crash just to keep me humble.<br>🐚 Make Bash and Python do the boring work.<br>🔍 Zoom into waveforms until the bug gives up.<br>📄 Write docs so future-me doesn’t hate present-me.</p>
-
-###
-
-<p></p>
 
 ###
 
